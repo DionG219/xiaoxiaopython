@@ -7,6 +7,7 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name} 分支1提交')  # Press Ctrl+F8 to toggle the breakpoint.
+    print(f'Hi, {name} feature2')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
